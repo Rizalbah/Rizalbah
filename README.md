@@ -37,5 +37,15 @@ Currently working on portfolio projects, contributing to open source, and learni
 -->
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rizalbah/Rizalbah/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rizalbah/Rizalbah/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rizalbah/Rizalbah/output/pacman-contribution-graph.svg">
+</picture>
 
+###
+
+<img src="https://raw.githubusercontent.com/Rizalbah/Rizalbah/output/snake.svg" alt="Snake animation" />
+
+###
 > Thanks for visiting my profile! 🚀 Feel free to check out my projects or reach out for collaboration.
